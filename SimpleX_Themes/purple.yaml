@@ -1,4 +1,4 @@
-base: "DARK"
+base: "BLACK"
 colors:
   accent: "#c084fc"
   accentVariant: "#e879f9"
