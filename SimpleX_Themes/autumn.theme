@@ -1,0 +1,22 @@
+base: "DARK"
+colors:
+  accent: "#ffe67e22"
+  accentVariant: "#ffd4651a"
+  secondary: "#ffc4a484"
+  secondaryVariant: "#ff8c5a2b"
+  background: "#ff1a120c"
+  menus: "#ff2a1f16"
+  title: "#fff4a261"
+  accentVariant2: "#ff3d2a1c"
+  sentMessage: "#ff4a3018"
+  sentReply: "#ff3d2514"
+  receivedMessage: "#ff2e221a"
+  receivedReply: "#ff38281e"
+  text: "#fff5e6d3"
+  textSecondary: "#ffd4b89a"
+  border: "#ff6b4a32"
+wallpaper:
+  preset: "abstract"
+  scale: 1.0
+  background: "#ff1a120c"
+  tint: "#33e67e22"
